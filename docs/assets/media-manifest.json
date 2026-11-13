@@ -1,7 +1,7 @@
 {
   "release": "VaultItem 1.2",
   "prepared": "2026-11-13",
-  "publication": "LOCAL ONLY; do not publish until app submission, approval and release",
+  "publication": "Website media published to GitHub Pages on 2026-11-13. App Store build 1.2.0 (14) upload is processing in App Store Connect.",
   "source": "VaultItem-1.2-Source-Media iPhone App Store previews, refreshed Home screenshots, Header and Search Results artwork, and resized 1.2 unlock screenshot",
   "fictionalData": true,
   "files": [
@@ -86,7 +86,7 @@
       "sha256": "47d88c7532b9ccab31a87db88d85d1723cf619359b786e6208dc2717e3f26978"
     }
   ],
-  "duo": "The refreshed Duo Home screenshot is displayed in the device gallery. Duo App Store preview media is pending review.",
+  "duo": "The current Duo Home screenshot is included. Duo preview videos use Apple\u2019s standard iPhone preview dimensions; check App Store Connect for their current product-page availability.",
   "historicalUnusedMedia": "Prior build-12 website media files are retained in the folder but are no longer referenced by the current site.",
   "websiteBrandIcon": {
     "source": "app/assets/vaultitem-icon.png",
